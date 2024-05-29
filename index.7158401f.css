@@ -1,0 +1,2 @@
+.cat-photo{max-width:400px}.loader{width:16px;height:16px;box-sizing:border-box;background:#fff;border-radius:50%;margin:15px auto;animation:shadowPulse 2s linear infinite;display:block;position:relative;box-shadow:-24px 0 #fff,24px 0 #fff}@keyframes shadowPulse{33%{background:#fff;box-shadow:-24px 0 #5897fb,24px 0 #fff}66%{background:#5897fb;box-shadow:-24px 0 #fff,24px 0 #fff}to{background:#fff;box-shadow:-24px 0 #fff,24px 0 #5897fb}}
+/*# sourceMappingURL=index.7158401f.css.map */
